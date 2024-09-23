@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "description": "Fresh and crisp apples, perfect for snacking or baking.",
+        "category": "Fruits",
+        "price": 1.5,
+        "stock": 100,
+        "unit": "kg",
+        "rating": 4.7,
+        "productTags": [
+            "organic",
+            "red",
+            "fresh"
+        ],
+        "image": "https://example.com/images/apple.jpg",
+        "categoryImage": "https://static.vecteezy.com/system/resources/previews/029/720/177/original/mixed-fruit-transparent-background-png.png"
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "description": "Ripe bananas, rich in potassium and energy boosting.",
+        "category": "Fruits",
+        "price": 0.99,
+        "stock": 120,
+        "unit": "kg",
+        "rating": 4.5,
+        "productTags": [
+            "ripe",
+            "yellow",
+            "tropical"
+        ],
+        "image": "https://example.com/images/banana.jpg",
+        "categoryImage": "https://static.vecteezy.com/system/resources/previews/029/720/177/original/mixed-fruit-transparent-background-png.png"
+    },
+    {
+        "id": 3,
+        "name": "Whole Milk",
+        "description": "Creamy and fresh whole milk sourced from local farms.",
+        "category": "Dairy",
+        "price": 3.49,
+        "stock": 50,
+        "unit": "liter",
+        "rating": 4.8,
+        "productTags": [
+            "fresh",
+            "whole",
+            "dairy"
+        ],
+        "image": "https://example.com/images/milk.jpg",
+        "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZpDz6JhBUfphdIrEU2oz_tLJQh-gV7jnUycveaipO5gQmYmtiQ17nVFzIZQl_KAT6BM&usqp=CAU"
+    },
+    {
+        "id": 4,
+        "name": "Eggs",
+        "description": "A dozen farm-fresh eggs, perfect for any meal.",
+        "category": "Dairy",
+        "price": 2.99,
+        "stock": 200,
+        "unit": "dozen",
+        "rating": 4.6,
+        "productTags": [
+            "free-range",
+            "protein",
+            "fresh"
+        ],
+        "image": "https://example.com/images/eggs.jpg",
+        "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZpDz6JhBUfphdIrEU2oz_tLJQh-gV7jnUycveaipO5gQmYmtiQ17nVFzIZQl_KAT6BM&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Chicken Breast",
+        "description": "Lean and tender chicken breast, perfect for grilling or roasting.",
+        "category": "Meat & Fish",
+        "price": 7.99,
+        "stock": 80,
+        "unit": "kg",
+        "rating": 4.9,
+        "productTags": [
+            "lean",
+            "protein",
+            "fresh"
+        ],
+        "image": "https://example.com/images/chicken.jpg",
+        "categoryImage": "https://chaldn.com/asset/Egg.ChaldalWeb.Fabric/Egg.ChaldalWeb/1.0.0-Deploy-Release-553/Default/stores/chaldal/components/landingPage2/LandingPageCategories/images/categories/meatAndFish.png?q=low&webp=1"
+    },
+    {
+        "id": 6,
+        "name": "Broccoli",
+        "description": "Fresh and healthy broccoli, packed with nutrients.",
+        "category": "Vegetables",
+        "price": 2.5,
+        "stock": 60,
+        "unit": "kg",
+        "rating": 4.4,
+        "productTags": [
+            "green",
+            "organic",
+            "fresh"
+        ],
+        "image": "https://example.com/images/broccoli.jpg",
+        "categoryImage": "https://chaldn.com/asset/Egg.ChaldalWeb.Fabric/Egg.ChaldalWeb/1.0.0-Deploy-Release-553/Default/stores/chaldal/components/landingPage2/LandingPageCategories/images/categories/fruitsAndVegs.png?q=low&webp=1"
+    },
+    {
+        "id": 7,
+        "name": "Carrot",
+        "description": "Crunchy and sweet carrots, perfect for snacking or cooking.",
+        "category": "Vegetables",
+        "price": 1.75,
+        "stock": 70,
+        "unit": "kg",
+        "rating": 4.3,
+        "productTags": [
+            "orange",
+            "organic",
+            "fresh"
+        ],
+        "image": "https://example.com/images/carrot.jpg",
+        "categoryImage": "https://chaldn.com/asset/Egg.ChaldalWeb.Fabric/Egg.ChaldalWeb/1.0.0-Deploy-Release-553/Default/stores/chaldal/components/landingPage2/LandingPageCategories/images/categories/fruitsAndVegs.png?q=low&webp=1"
+    },
+    {
+        "id": 8,
+        "name": "Orange Juice",
+        "description": "Freshly squeezed orange juice, full of vitamin C.",
+        "category": "Beverages",
+        "price": 4.99,
+        "stock": 40,
+        "unit": "liter",
+        "rating": 4.7,
+        "productTags": [
+            "citrus",
+            "fresh",
+            "natural"
+        ],
+        "image": "https://example.com/images/orange_juice.jpg",
+        "categoryImage": "https://s7d1.scene7.com/is/image/KeminIndustries/shutterstock_519547867?$responsive$"
+    },
+    {
+        "id": 9,
+        "name": "Rice",
+        "description": "Premium quality long-grain rice, ideal for any dish.",
+        "category": "Grains",
+        "price": 10.0,
+        "stock": 150,
+        "unit": "kg",
+        "rating": 4.8,
+        "productTags": [
+            "white",
+            "grain",
+            "premium"
+        ],
+        "image": "https://example.com/images/rice.jpg",
+        "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBIfmWeTcCWWT97oOprjqMcEWjAM7EopFDg&s"
+    },
+    {
+        "id": 10,
+        "name": "Pasta",
+        "description": "High-quality pasta, perfect for all your favorite dishes.",
+        "category": "Grains",
+        "price": 3.5,
+        "stock": 90,
+        "unit": "pack",
+        "rating": 4.5,
+        "productTags": [
+            "italian",
+            "premium",
+            "durum"
+        ],
+        "image": "https://example.com/images/pasta.jpg",
+        "categoryImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROBIfmWeTcCWWT97oOprjqMcEWjAM7EopFDg&s"
+    }
+]

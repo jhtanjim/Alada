@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "title": "The Benefits of Eating Fresh Fruits and Vegetables",
+        "author": "Jane Doe",
+        "date": "2023-09-01",
+        "content": "Eating fresh fruits and vegetables is essential for maintaining a healthy diet. They provide vital nutrients and antioxidants that can help improve your health.",
+        "tags": [
+            "health",
+            "nutrition",
+            "wellness"
+        ],
+        "image": "https://menvcity.org.uk/wp-content/uploads/2023/08/FV-Website-png-min-1024x724.png",
+        "comments": [
+            {
+                "id": 1,
+                "author": "John Smith",
+                "content": "Great article! I love incorporating more fruits into my diet.",
+                "date": "2023-09-02"
+            },
+            {
+                "id": 2,
+                "author": "Emily Johnson",
+                "content": "Thanks for the tips! I need to eat more veggies.",
+                "date": "2023-09-03"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Quick and Easy Healthy Recipes for Busy Weeknights",
+        "author": "Alice Brown",
+        "date": "2023-09-10",
+        "content": "Don't have time to cook? Check out these quick and easy recipes that are both healthy and delicious.",
+        "tags": [
+            "recipes",
+            "quick meals",
+            "healthy eating"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4AZGNALY4tkBgGp-KSRXdQZfXiuQFj6ErZA&s",
+        "comments": []
+    },
+    {
+        "id": 3,
+        "title": "How to Choose the Best Produce at the Grocery Store",
+        "author": "Mike Wilson",
+        "date": "2023-09-15",
+        "content": "Choosing the best produce is important for maximizing flavor and nutrition. Here are some tips to help you select the freshest fruits and vegetables.",
+        "tags": [
+            "shopping tips",
+            "grocery",
+            "produce"
+        ],
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWRXaFZIbHhtnHe57Z-PAqD3pXdmrq6u0zErZGRUfZZJHmknW3YQiZZZ0mflxwlNYbvM&usqp=CAU",
+        "comments": [
+            {
+                "id": 1,
+                "author": "Sarah Davis",
+                "content": "This is really helpful! I never know what to pick.",
+                "date": "2023-09-16"
+            }
+        ]
+    }
+]
